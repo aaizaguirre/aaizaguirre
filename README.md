@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Aarón Izaguirre</h1>
-<h3 align="center">Bachiller en Ciencias Forestales - UNALM. </h3>
-<h4 En proceso de aprendizaje de herramientas para el análisis de datos. </h4>
+<h3 align="center">Bachiller en Ciencias Forestales - UNALM </h3>
+En proceso de aprendizaje de herramientas para el análisis de datos.
 
 - 🌱 Actalmente estoy aprendiendo: **Python, SQL, R**
 
